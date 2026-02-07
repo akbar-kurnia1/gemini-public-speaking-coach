@@ -1,0 +1,7 @@
+{
+  "name": "SpeakPro",
+  "description": "A professional AI-powered public speaking practice application featuring immersive roleplay scenarios and detailed performance analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
